@@ -1,1 +1,1 @@
-Many to many relationship in pythn
+Many to many relationship in python
